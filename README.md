@@ -1,5 +1,10 @@
-TypeScript Hello World Demo
+TypeScript Define Class Implements Function Demo
 ===========================
+
+Typescript中class不能直接implements一个Function:
+
+https://www.typescriptlang.org/docs/handbook/interfaces.html#hybrid-types
+
 
 ```
 npm install
